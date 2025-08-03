@@ -1,15 +1,3 @@
-// const number1 = document.getElementById("number1");
-// const number2 = document.getElementById("number2");
-
-// const add = document.getElementById("add");
-// const subtract = document.getElementById("subtract");
-
-// const multiply = document.getElementById("multiply");
-// const divide = document.getElementById("divide");
-
-// const calculate =  document.getElementById("calculation-result");
-
-
 
 function add(number1, number2) {
     return number1 + number2;
